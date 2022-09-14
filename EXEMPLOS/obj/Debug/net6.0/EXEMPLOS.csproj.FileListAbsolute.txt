@@ -1,0 +1,15 @@
+C:\Users\saned\Documents\GitHub\Pottencial-.NET-Developer-BOOTCAMP\EXEMPLOS\bin\Debug\net6.0\EXEMPLOS.exe
+C:\Users\saned\Documents\GitHub\Pottencial-.NET-Developer-BOOTCAMP\EXEMPLOS\bin\Debug\net6.0\EXEMPLOS.deps.json
+C:\Users\saned\Documents\GitHub\Pottencial-.NET-Developer-BOOTCAMP\EXEMPLOS\bin\Debug\net6.0\EXEMPLOS.runtimeconfig.json
+C:\Users\saned\Documents\GitHub\Pottencial-.NET-Developer-BOOTCAMP\EXEMPLOS\bin\Debug\net6.0\EXEMPLOS.dll
+C:\Users\saned\Documents\GitHub\Pottencial-.NET-Developer-BOOTCAMP\EXEMPLOS\bin\Debug\net6.0\EXEMPLOS.pdb
+C:\Users\saned\Documents\GitHub\Pottencial-.NET-Developer-BOOTCAMP\EXEMPLOS\obj\Debug\net6.0\EXEMPLOS.csproj.AssemblyReference.cache
+C:\Users\saned\Documents\GitHub\Pottencial-.NET-Developer-BOOTCAMP\EXEMPLOS\obj\Debug\net6.0\EXEMPLOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saned\Documents\GitHub\Pottencial-.NET-Developer-BOOTCAMP\EXEMPLOS\obj\Debug\net6.0\EXEMPLOS.AssemblyInfoInputs.cache
+C:\Users\saned\Documents\GitHub\Pottencial-.NET-Developer-BOOTCAMP\EXEMPLOS\obj\Debug\net6.0\EXEMPLOS.AssemblyInfo.cs
+C:\Users\saned\Documents\GitHub\Pottencial-.NET-Developer-BOOTCAMP\EXEMPLOS\obj\Debug\net6.0\EXEMPLOS.csproj.CoreCompileInputs.cache
+C:\Users\saned\Documents\GitHub\Pottencial-.NET-Developer-BOOTCAMP\EXEMPLOS\obj\Debug\net6.0\EXEMPLOS.dll
+C:\Users\saned\Documents\GitHub\Pottencial-.NET-Developer-BOOTCAMP\EXEMPLOS\obj\Debug\net6.0\refint\EXEMPLOS.dll
+C:\Users\saned\Documents\GitHub\Pottencial-.NET-Developer-BOOTCAMP\EXEMPLOS\obj\Debug\net6.0\EXEMPLOS.pdb
+C:\Users\saned\Documents\GitHub\Pottencial-.NET-Developer-BOOTCAMP\EXEMPLOS\obj\Debug\net6.0\EXEMPLOS.genruntimeconfig.cache
+C:\Users\saned\Documents\GitHub\Pottencial-.NET-Developer-BOOTCAMP\EXEMPLOS\obj\Debug\net6.0\ref\EXEMPLOS.dll
