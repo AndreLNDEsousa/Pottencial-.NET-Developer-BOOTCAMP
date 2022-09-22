@@ -1,12 +1,145 @@
 ﻿using EXEMPLOS.Models;
+//*********************************************************
+//OPERADOR NOT (!)
 
 
-//Cast - casting, conversão de string
-//Diferença entre convert e parse, convert aceita nullo e apresenta "0". O parse dá erro
-int a = Convert.ToInt32(null);
-// int a = int.Parse("null");
 
-Console.WriteLine(a);
+
+//*********************************************************
+//OPERADOR AND (&&)
+// bool possuiPresencaMinima = true;
+// double media = 6.5;
+
+// if (possuiPresencaMinima && media >= 7)
+// {
+//     Console.WriteLine("Aprovado!!!");
+// }
+// else
+// {
+//       Console.WriteLine("Reprovado!!!");
+// }
+
+
+
+
+
+//**********************************************************
+//OPERADOR OR
+
+// bool ehMaiorDeIdade = false;
+// bool possuiAutorizacaoDoRepresentante = false;
+
+// if (ehMaiorDeIdade || possuiAutorizacaoDoRepresentante)
+// {
+//     Console.WriteLine("Entrada Liberada.");
+// }
+// else
+// {
+//     Console.WriteLine("Entrada não liberada!!!");
+// }
+
+
+
+
+
+//**********************************************
+//Switch Case
+
+// Console.WriteLine("Digite uma letra.");
+// string letra = Console.ReadLine();
+
+// USO DE SWITCH CASE
+// switch (letra)
+// {
+//     case "a":
+//     case "e":
+//     case "i":
+//     case "o":
+//     case "u":
+//     Console.WriteLine("Vogal");
+//     break;
+
+// default:
+//     Console.WriteLine("Não é uma vogal");
+//     break;
+
+// }
+
+//Segunda Forma
+// if (letra == "a" ||
+//     letra == "e" ||
+//     letra == "i" ||
+//     letra == "o" ||
+//     letra == "u" ||
+// )
+// {
+//     Console.WriteLine("Vogal");
+// }
+// else
+// {
+//     Console.WriteLine("Não é uma vogal!!!");
+// }
+
+
+//Proimeira forma
+// if (letra == "a")
+// {
+//     Console.WriteLine("Vogal");
+// }
+// else if (letra == "e")
+// {
+//     Console.WriteLine("Vogal");
+// }
+// else if (letra == "i")
+// {
+//     Console.WriteLine("Vogal");
+// }
+// else if (letra == "o")
+// {
+//     Console.WriteLine("Vogal");
+// }
+// else if (letra == "u")
+// {
+//     Console.WriteLine("Vogal");
+// }
+// else
+// {
+//     Console.WriteLine("Não é uma vogal!!!");
+// }
+
+//***********************************
+// //IF aninhado
+// int quantidadeEmEstoque = 3;
+// int quantidadeCompra = 0;
+// bool possivelVenda = quantidadeCompra > 0 && quantidadeEmEstoque >= quantidadeCompra;
+
+// Console.WriteLine ($"Quantidade em estoque :{quantidadeEmEstoque}");
+// Console.WriteLine ($"Quantidade Compra  :{quantidadeCompra}");
+// Console.WriteLine ($"È possível realizar a venda? {possivelVenda}");
+
+// if (quantidadeCompra == 0)
+// {
+//     Console.WriteLine("Venda inválida!!");
+
+// }
+// else if (possivelVenda)
+// {
+//     Console.WriteLine("Venda realizada");
+// }
+// else 
+// {
+//     Console.WriteLine("Desculpe. Não temos a quantidade desejada em estoque.");
+// }
+
+
+//*******************************************
+
+// //Cast - casting, conversão de string
+// //Diferença entre convert e parse, convert aceita nullo e apresenta "0". O parse dá erro
+// int a = Convert.ToInt32(null);
+// // int a = int.Parse("null");
+
+// Console.WriteLine(a);
 //Operadores (+ - * /)
 // int a = 10;
 // int b = 20;
@@ -16,13 +149,13 @@ Console.WriteLine(a);
 // c +=5;
 // Console.WriteLine(c);
 
-
+//*************************************************
 
 //tipos de data e hora 
 // DateTime dataAtual = DateTime.Now.AddDays(5);
 // Console.WriteLine(dataAtual);
 
-
+//*************************************************************
 //Tipos de dados
 // string apresentacao = "Olá seja bem vindo!";
 // int quantidade = 1;
