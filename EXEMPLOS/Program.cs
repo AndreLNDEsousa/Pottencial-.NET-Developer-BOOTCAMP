@@ -1,5 +1,127 @@
 ﻿using EXEMPLOS.Models;
 
+
+//EXEMPLO DE MENU INTERATIVO
+
+string opcao;
+bool exibirmenu = true;
+
+while (exibirmenu)
+{
+    Console.Clear();
+    Console.WriteLine("Digite a sua opção:");
+    Console.WriteLine("1 - Cadastrar cliente");
+    Console.WriteLine("2 - Buscar cliente");
+    Console.WriteLine("3 - Apagar cliente");
+    Console.WriteLine("4 - Encerrar");
+
+    opcao = Console.ReadLine();
+
+    switch(opcao)
+    {
+        case "1":
+        Console.WriteLine("Cadastro de cliente");
+        break;
+
+        case "2":
+        Console.WriteLine("Busca de cliente");
+        break;
+
+        case "3":
+        Console.WriteLine("Apagar cliente");
+        break;
+
+        case "4":
+        Console.WriteLine("Sua aplicação finalizou!!!");
+        // Environment.Exit(0);
+        exibirmenu = false;
+        break;
+
+        default:
+        Console.WriteLine("Opção inválida!!");
+        break;
+
+    }
+
+}
+
+Console.WriteLine("O programa se encerou");
+
+
+
+
+
+
+
+
+
+
+
+
+
+//LAÇOS DE REPETIÇÃO
+
+// DO WHILE
+
+// int soma = 0, numero = 0;
+
+// do
+// {
+//     Console.WriteLine("Digite um número: (0 para parar)");
+//      numero = Convert.ToInt32(Console.ReadLine());
+
+//      soma += numero;
+
+// } while(numero != 0);
+
+// Console.WriteLine($"Total da soma dos números digitados é: {soma}");
+
+
+
+
+
+
+//WHILE
+// int numero = 5;
+// int contador = 0;
+// int auxiliar = 0;
+
+// while (contador <=10)
+// {
+//     Console.WriteLine($"{contador}º Execução {numero} x {contador} = {numero *contador}");
+//     contador++;
+// }
+
+
+
+
+
+//FOR
+// int numero = 5;
+
+// for (int contador = 1; contador<= 10; contador++)
+// {
+//   Console.WriteLine($"{numero} x {contador} = {numero *contador}");
+// }
+
+
+
+//******************************************************
+//OPERADORES ARITMÉTICOS EM C#.
+
+// Calculadora calc = new Calculadora ();
+// calc.Somar(10, 30);
+// calc.Subtrair(10, 50);
+// calc.Multiplicar(15, 45);
+// calc.Dividir(2, 2);
+// calc.Potencia (3, 3);
+// calc.Seno(30);
+// calc.Coseno(30);
+// calc.Tangente(30);
+// calc.RaizQuadrada(9);
+
+
+//*******************************************************
 //INCREMENTO E DECREMENTO
 // int numero = 10;
 
@@ -10,21 +132,6 @@
 
 // Console.WriteLine($"Decrementando de 10 = {numero--} ");
 // //10-1
-
-
-//OPERADORES ARITMÉTICOS EM C#.
-
-Calculadora calc = new Calculadora ();
-// calc.Somar(10, 30);
-// calc.Subtrair(10, 50);
-// calc.Multiplicar(15, 45);
-// calc.Dividir(2, 2);
-// calc.Potencia (3, 3);
-// calc.Seno(30);
-// calc.Coseno(30);
-// calc.Tangente(30);
-calc.RaizQuadrada(9);
-
 
 
 
