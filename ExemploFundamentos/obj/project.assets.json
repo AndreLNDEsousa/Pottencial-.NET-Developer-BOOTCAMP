@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\saned\\Documents\\GitHub\\Pottencial-.NET-Developer-BOOTCAMP\\EXEMPLOS\\EXEMPLOS.csproj",
-      "projectName": "EXEMPLOS",
-      "projectPath": "C:\\Users\\saned\\Documents\\GitHub\\Pottencial-.NET-Developer-BOOTCAMP\\EXEMPLOS\\EXEMPLOS.csproj",
+      "projectUniqueName": "C:\\Users\\saned\\Documents\\GitHub\\Pottencial-.NET-Developer-BOOTCAMP\\ExemploFundamentos\\ExemploFundamentos.csproj",
+      "projectName": "ExemploFundamentos",
+      "projectPath": "C:\\Users\\saned\\Documents\\GitHub\\Pottencial-.NET-Developer-BOOTCAMP\\ExemploFundamentos\\ExemploFundamentos.csproj",
       "packagesPath": "C:\\Users\\saned\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\saned\\Documents\\GitHub\\Pottencial-.NET-Developer-BOOTCAMP\\EXEMPLOS\\obj\\",
+      "outputPath": "C:\\Users\\saned\\Documents\\GitHub\\Pottencial-.NET-Developer-BOOTCAMP\\ExemploFundamentos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\saned\\AppData\\Roaming\\NuGet\\NuGet.Config"
